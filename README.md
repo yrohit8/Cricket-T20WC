@@ -20,3 +20,8 @@ The journey culminates in the captivating visual representation of our findings 
 
 **6. Decision Support:**
 Armed with our comprehensive cricket analytics, decision-makers, coaches, and enthusiasts gain valuable tools for informed decision-making. Whether it's strategic planning, player selection, or understanding opposition strengths and weaknesses, our end-to-end project equips stakeholders with actionable insights to elevate their understanding of the game.
+![Screenshot (402)](https://github.com/yrohit8/Cricket-T20WC/assets/96976176/c7e112f5-befc-4317-8281-35bced507070)
+![Screenshot (403)](https://github.com/yrohit8/Cricket-T20WC/assets/96976176/39431836-c23a-42c3-82f3-a7a740f91edc)
+![Screenshot (407)](https://github.com/yrohit8/Cricket-T20WC/assets/96976176/b7d812be-825e-49bb-b198-b7284d1cb392)
+![Screenshot (405)](https://github.com/yrohit8/Cricket-T20WC/assets/96976176/3aa70a20-0cc9-41c4-97e4-3b6998dbeebc)
+![Screenshot (406)](https://github.com/yrohit8/Cricket-T20WC/assets/96976176/33368388-a29f-4a39-953d-0268d81fb863)
